@@ -29,11 +29,24 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * * *
 
+### 如何为列表贡献新资源？
+
+欢迎大家为列表贡献高质量的新资源，提交PR时请参照以下要求：
+
+* 请确保推荐的资源自己使用过
+* 提交PR时请注明推荐理由
+
+资源列表管理收到PR请求后，会定期（每周）在微博转发本周提交的PR列表，并在微博上面听取使用过这些资源的意见。确认通过后，会加入资源大全。
+
+感谢您的贡献！
+
+* * *
+
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、You
+- 贡献者：[tangyouhua](https://github.com/tangyouhua)、[kingzone](https://github.com/kingzone)、[llhua2329](https://github.com/llhua2329)、[BadCoderChou](https://github.com/BadCoderChou)、[anankun](http://www.jobbole.com/members/anankun/)、[贺贺](http://www.jobbole.com/members/jianghehe/)、[大彭](http://www.jobbole.com/members/petra/)、[superXiaoFan](https://github.com/wing00yf/)、[javayrf](http://www.jobbole.com/members/3951356/)、[John Smith](http://www.jobbole.com/members/John%20Smith/)、[Jaler](http://www.jobbole.com/members/jaler/)、[JM](http://www.jobbole.com/members/fdconan/)、[dreamkidd](http://www.jobbole.com/members/zy124348985/)、[cheenlie](http://www.jobbole.com/members/cheenlie)、[zhangQian1991](http://www.jobbole.com/members/zhangQian1991)、[王涛](http://www.jobbole.com/members/wt726553124/)、[马](http://www.jobbole.com/members/xun_cui)、[vvkee](http://www.jobbole.com/members/xuhf_1988/)、[凝枫](http://www.jobbole.com/members/yangxy81118)、[haixunlu](https://github.com/luhaixun)、[milly](http://www.jobbole.com/members/milly/)、[Hodur](http://www.jobbole.com/members/xuhf_1988/)、[FakeHank](http://www.jobbole.com/members/FakeHank)、[连乐](http://www.jobbole.com/members/%E8%BF%9E%E4%B9%90/)、[UncleTim](http://www.jobbole.com/members/UncleTim/)、[sunbiaobiao](http://www.jobbole.com/members/sunbiaobiao)、[zhiguo](http://www.jobbole.com/members/wx2702327993/)、[光光头去打酱油](http://www.jobbole.com/members/zhongjianno1/)、[云中游](http://www.jobbole.com/members/TonyAaron/)、[Zemo](http://www.jobbole.com/members/zemo/)、[sdcuike](https://github.com/sdcuike)、[danielwii](https://github.com/danielwii)、[oneDay](http://www.jobbole.com/members/q1118024125/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -219,9 +232,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Joda-Time](hao.jobbole.com/joda-time/)：在Java 8发布前，Joda-Time是实际使用的时间日期库标准。[官网](http://www.joda.org/joda-time/)
 * [Time4J](http://hao.jobbole.com/time4j/)：高级时间和日期库。[官网](https://github.com/MenoData/Time4J)
+* ThreeTen：JSR-310实现，为JDK提供更具特点的时间和日期API。[官网](http://www.threeten.org)
 
 <h3 id="dependency-injection">依赖注入</h3>
-*帮实现[依赖翻转范式的开发库。*[官网](https://en.wikipedia.org/wiki/Inversion_of_control)
+*帮实现依赖翻转范式的开发库。* [官网](https://en.wikipedia.org/wiki/Inversion_of_control)
 
 * Apache DeltaSpike：CDI扩展框架。[官网](https://deltaspike.apache.org/)
 * Dagger2：编译时注入框架，不需要使用反射。[官网](http://google.github.io/dagger/)
@@ -238,7 +252,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * HotswapAgent：支持无限次重定义运行时类与资源。[官网](https://github.com/HotswapProjects/HotswapAgent)
 * Immutables：类似Scala的条件类。[官网](http://immutables.github.io/)
 * JHipster：基于Spring Boot与AngularJS应用程序的Yeoman源代码生成器。[官网](https://github.com/jhipster/generator-jhipster)
-* JRebel：无需重新部署，可以即时重新加载代码与配置的商业软件。[官网](http://zeroturnaround.com/software/jrebel/)
+* [JRebel](http://hao.jobbole.com/jrebel/)：无需重新部署，可以即时重新加载代码与配置的商业软件。[官网](http://zeroturnaround.com/software/jrebel/)
 * Lombok：减少冗余的代码生成器。[官网](https://projectlombok.org/)
 * Spring Loaded：类重载代理。[官网](https://github.com/spring-projects/spring-loaded)
 * vert.x：多语言事件驱动应用框架。[官网](http://vertx.io/)
@@ -248,7 +262,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * [Akka](http://hao.jobbole.com/akka/)：用来编写分布式容错并发事件驱动应用程序的工具和运行时。[官网](http://akka.io)
 * [Apache Storm](http://hao.jobbole.com/storm/)：实时计算系统。[官网](http://storm.apache.org/)
-* Apache ZooKeeper：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
+* [Apache ZooKeeper](http://hao.jobbole.com/zookeeper/)：针对大型分布式系统的协调服务，支持分布式配置、同步和名称注册。[官网](http://zookeeper.apache.org/)
 * Hazelcast：高可扩展内存数据网格。[官网](http://hazelcast.org/)
 * Hystrix：提供延迟和容错。[官网](https://github.com/Netflix/Hystrix)
 * JGroups：提供可靠的消息传递和集群创建的工具。[官网](http://www.jgroups.org/)
@@ -261,7 +275,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Apache Cassandra：列式数据库，可用性高且没有单点故障。[官网](http://cassandra.apache.org)
 * Apache HBase：针对大数据的Hadoop数据库。[官网](http://hbase.apache.org)
 * [Druid](http://hao.jobbole.com/druid/)：实时和历史OLAP数据存储，在聚集查询和近似查询方面表现不俗。[官网](http://druid.io)
-* Infinispan：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
+* [Infinispan](http://hao.jobbole.com/infinispan/)：针对缓存的高并发键值对数据存储。[官网](http://infinispan.org/)
 
 <h3 id="distribution">发布</h3>
 *以本机格式发布应用程序的工具。*
@@ -279,15 +293,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *处理Office文档的开发库。*
 
 * [Apache POI](http://hao.jobbole.com/poi/)：支持OOXML规范（XLSX、DOCX、PPTX）以及OLE2规范（XLS、DOC、PPT）。[官网](http://poi.apache.org/)
-* documents4j：使用第三方转换器进行文档格式转换，转成类似MS Word这样的格式。[官网](http://documents4j.com)
-* jOpenDocument：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。[官网](http://www.jopendocument.org/)
+* [documents4j](http://hao.jobbole.com/documents4j/)：使用第三方转换器进行文档格式转换，转成类似MS Word这样的格式。[官网](http://documents4j.com)
+* [jOpenDocument](http://hao.jobbole.com/jopendocument/)：处理OpenDocument格式（由Sun公司提出基于XML的文档格式）。[官网](http://www.jopendocument.org/)
 
 <h3 id="functional-programming">函数式编程</h3>
 *函数式编程支持库。*
 
-* Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cylops)
+* Cyclops：支持一元（Monad）操作和流操作工具类、comprehension（List语法）、模式匹配、trampoline等特性。[官网](https://github.com/aol/cyclops)
 * Fugue：Guava的函数式编程扩展。[官网](https://bitbucket.org/atlassian/fugue)
-* Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.fuctionaljava.org)
+* Functional Java：实现了多种基础和高级编程抽象，用来辅助面向组合开发（composition-oriented development）。[官网](http://www.functionaljava.org)
 * Javaslang：一个函数式组件库，提供持久化数据类型和函数式控制结构。[官网](http://javaslang.com)
 * jOOλ：旨在填补Java 8 lambda差距的扩展，提供了众多缺失的类型和一组丰富的顺序流API。[官网](https://github.com/jOOQ/jOOL)
 
@@ -312,7 +326,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Disruptor：线程间消息传递开发库。[官网](http://lmax-exchange.github.io/disruptor/)
 * fastutil：快速紧凑的特定类型集合（Collection）。[官网](http://fastutil.di.unimi.it/)
 * GS Collections：受Smalltalk启发的集合框架。[官网](https://github.com/goldmansachs/gs-collections)
-* HPPC：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
+* [HPPC](http://hao.jobbole.com/hppc/)：基础类型集合。[官网](http://labs.carrotsearch.com/hppc.html)
 * Javolution：实时和嵌入式系统的开发库。[官网](http://javolution.org/)
 * JCTools：JDK中缺失的并发工具。[官网](https://github.com/JCTools/JCTools)
 * Koloboke：Hash set和hash map。[官网](https://github.com/OpenHFT/Koloboke)
@@ -326,7 +340,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [IntelliJ IDEA](http://hao.jobbole.com/intellij-idea/)：支持众多JVM语言，是安卓开发者好的选择。商业版主要针对企业客户。[官网](http://www.jetbrains.com/idea/)
 * [NetBeans](http://hao.jobbole.com/netbeans/)：为多种技术提供集成化支持，包括Java SE、Java EE、数据库访问、HTML5等。[官网](https://netbeans.org/)
 * [Scala IDE](http://hao.jobbole.com/scala-ide/)：一款基于Eclipse开源平台打造的Scala集成开发环境。[官网](http://scala-ide.org/)
-* SpringSource Tool Suite（sts):一款基于Eclipse开源平台打造的spring应用开发环境。[官网](http://spring.io/tools/sts/)
+* [SpringSource Tool Suite（STS）](http://hao.jobbole.com/springsource-tool-suite/):一款基于Eclipse开源平台打造的Spring应用开发环境。[官网](http://spring.io/tools/sts/)
 
 <h3 id="imagery">图像处理</h3>
 *创建、评价和操作图片的支持库。*
@@ -349,8 +363,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="jvm-and-jdk">JVM与JDK</h3>
 *目前的JVM和JDK实现。*
 
-* JDK 9：JDK 9的早期访问版本。[官网](https://jdk9.java.net/)
-* OpenJDK：JDK开源实现。[官网](http://openjdk.java.net/)
+* [JDK 9](http://hao.jobbole.com/jdk-9/)：JDK 9的早期访问版本。[官网](https://jdk9.java.net/)
+* [OpenJDK](http://hao.jobbole.com/openjdk/)：JDK开源实现。[官网](http://openjdk.java.net/)
 
 <h3 id="languages">基于JVM的语言</h3>
 *除Java外，可以用来编写JVM应用程序的编程语言。*
@@ -375,14 +389,14 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 <h3 id="machine-learning">机器学习</h3>
 *提供具体统计算法的工具。其算法可从数据中学习。*
 
-* Apache Flink：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
-* Apache Hadoop：在商用硬件集群上用来进行大规模数据存储的开源软件框架。[官网](http://hadoop.apache.org/)
+* [Apache Flink](http://hao.jobbole.com/apache-flink/)：快速、可靠的大规模数据处理引擎。[官网](https://flink.apache.org/)
+* [Apache Hadoop](http://hao.jobbole.com/apache-hadoop/)：在商用硬件集群上用来进行大规模数据存储的开源软件框架。[官网](http://hadoop.apache.org/)
 * Apache Mahout：专注协同过滤、聚类和分类的可扩展算法。[官网](https://mahout.apache.org/)
 * Apache Spark：开源数据分析集群计算框架。[官网](http://spark.apache.org/)
 * DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具。[官网](http://deepdive.stanford.edu)
 * Deeplearning4j：分布式多线程深度学习开发库。[官网](http://deeplearning4j.org/)
 * H2O：用作大数据统计的分析引擎。[官网](http://h2o.ai/)
-* Weka：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Weka](http://hao.jobbole.com/weka/)：用作数据挖掘的算法集合，包括从预处理到可视化的各个层次。[官网](http://www.cs.waikato.ac.nz/ml/weka/)
 
 <h3 id="messaging">消息传递</h3>
 *在客户端之间进行消息传递，确保协议独立性的工具。*
@@ -394,7 +408,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * Hermes：快速、可靠的消息代理（Broker），基于Kafka构建。[官网](http://hermes.allegro.tech)
 * JBoss HornetQ：清晰、准确、模块化，可以方便嵌入的消息工具。[官网](http://hornetq.jboss.org/)
 * JeroMQ：ZeroMQ的纯Java实现。[官网](https://github.com/zeromq/jeromq)
-* Smack：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/)
+* [Smack](http://hao.jobbole.com/smack/)：跨平台XMPP客户端函数库。[官网](https://github.com/igniterealtime/Smack/)
 
 <h3 id="miscellaneous">杂项</h3>
 *未分类其它资源。*
@@ -413,7 +427,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * AppDynamics：性能监测商业工具。[官网](http://www.appdynamics.com/)
 * [JavaMelody](http://hao.jobbole.com/javamelody/)：性能监测和分析工具。[官网](https://github.com/javamelody/javamelody)
 * Kamon：Kamon用来监测在JVM上运行的应用程序。[官网](http://www.kamon.io/)
-* New Relic：性能监测商业工具。[官网](http://newrelic.com/)
+* [New Relic](http://hao.jobbole.com/new-relic/)：性能监测商业工具。[官网](http://newrelic.com/)
 * SPM：支持对JVM应用程序进行分布式事务追踪的性能监测商业工具。[官网](https://sematext.com/spm/)
 * Takipi：产品运行时错误监测及调试商业工具。[官网](https://www.takipi.com/)
 
@@ -652,6 +666,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Stephen Colebourne](https://twitter.com/jodastephen)： Java Champion、演讲者。
 * [Tim Boudreau](https://twitter.com/kablosna)：作家、NetBeans大牛。
 * [Trisha Gee](https://twitter.com/trisha_gee)：Java Champion、演讲者。
+
+<h3 id="weibo-weixin">微博、微信公众号</h3>
+* ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
+* ImportNew：最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。
+<br><img src="http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg" width=150 height=150>
 
 <h3 id="websites">知名网站</h3>
 *值得关注的Java技术站点。*
